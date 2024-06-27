@@ -1,6 +1,8 @@
 [submodule "librocksdb_sys/rocksdb"]
 	path = librocksdb_sys/rocksdb
 	url = https://github.com/s94130586/rocksdb
+	branch = mazze-fixes
 [submodule "librocksdb_sys/libtitan_sys/titan"]
 	path = librocksdb_sys/libtitan_sys/titan
 	url = https://github.com/s94130586/titan
+	branch = mazze-fixes
